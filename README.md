@@ -1,2 +1,2 @@
 # COSC326
-Repo for COSC326 tasks
+This contains my solutions to the tasks asked in the COSC326 Effective Programming course.
